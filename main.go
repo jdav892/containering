@@ -14,7 +14,7 @@ func main() {
 	case "child":
 		child()
 	default:
-		panic("OH NO!")
+		panic("Error found")
 	}
 }
 
